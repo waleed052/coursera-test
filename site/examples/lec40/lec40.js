@@ -4,4 +4,4 @@ for ( var i = 0; i<10; i++ ){
    sum = sum + i;
 }
 
-console.log("Sum of all is " + sum);
+console.log("Sum of all is " + sum); 
